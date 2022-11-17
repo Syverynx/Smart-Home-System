@@ -12,13 +12,13 @@ This repository includes code used for making a weather station and dashboard fo
 
 ![PIC1](https://github.com/Syverynx/Smart-Home-System/blob/master/Images/Station.png)
 
-![PIC2](https://github.com/Syverynx/Smart-Home-System/blob/master/Images/Station.png)
+![PIC2](https://github.com/Syverynx/Smart-Home-System/blob/master/Images/Station_screen.jpg)
 ### Temperature measurement 
 - for cost and challenge reasons, powered by a ESP01
 - measures temperature and sends it to a central node
 - like the weather station, shows the current temperature of the measured system with a RGB diode
 
-![PIC3](https://github.com/Syverynx/Smart-Home-System/blob/master/Images/Station.png)
+![PIC3](https://github.com/Syverynx/Smart-Home-System/blob/master/Images/Temperature_node.png)
 ### Central node
 - it's a Raspberry Pi, with Node-RED and Mosquitto installed
 - gathers data from measurement nodes, weather data from Airly through their API, processes the data and sends it to the weather station
