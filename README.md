@@ -26,3 +26,8 @@ This repository includes code used for making a weather station and dashboard fo
 - was supposed to persist the data to InfluxDB, but I had gas heating installed before I could get to it
 
 ![PIC4](https://github.com/Syverynx/Smart-Home-System/blob/master/Images/Dashboard.png)
+
+### Remote IO station
+- ESP32-powered weather station... with both I and O! Graphical menu with buttons for selecting and navigating. Worked as a battery-powered weather station, other options included turning off my computer or the Raspberry Pi, remote calls were handled by the Pi itself.
+
+![PIC5](https://github.com/Syverynx/Smart-Home-System/blob/master/Images/Remote.png)
